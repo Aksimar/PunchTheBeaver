@@ -1,4 +1,4 @@
-# &#x20;PunchTheBeaver
+# PunchTheBeaver
 
 # 
 
@@ -6,7 +6,7 @@
 
 # 
 
-# &#x20;Technologies
+# ;Technologies
 
 # \- C#
 
